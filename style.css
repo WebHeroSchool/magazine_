@@ -1,14 +1,15 @@
-.wrap {
-    color: olive;
-}
 .title {
     font-size: 15px;
+    color: olive;
     font-weight: bold;
     font-family: 'Roboto Slab', serif;
 }
+.wrap {
+    color: olive;
+    font-family: 'Roboto Slab Light', serif;
+}
 .subtitle {
     font-size: 13px;
-    font-family: 'Roboto Slab Light' serif;
 }
 .section__content-title, section__content-name {
     font-size: 13px
