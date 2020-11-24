@@ -1,0 +1,26 @@
+.title {
+    font-size: 15px;
+    color: olive;
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif;
+}
+.wrap {
+    color: olive;
+    font-family: 'Roboto Slab Light', serif;
+}
+.subtitle {
+    font-size: 13px;
+}
+.section__content-title, section__content-name {
+    font-size: 13px
+}
+.section-two__article-content {
+    font-size: 13px;
+    font-weight: bold;
+}
+.section-two__article-content-next, section-two__article-content-aside {
+    font-size: 13px;
+}
+.footer {
+    font-size: 10px;
+}
